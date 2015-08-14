@@ -1,0 +1,77 @@
+body{
+	background-color:#33CCCC;
+}
+.container{
+	background-color: white;
+	margin-top:10px;
+	padding-top:10px;
+	border-radius:15px;
+}
+h1{
+	text-align:right;
+	font-family:Helvetica;
+	font-weight:bold;
+	font-size:50px;
+	margin-bottom:0px;
+	color:#000066;
+}
+h2{
+	margin-top:0px;
+	margin-bottom:0px;
+	text-align:right;
+	font-family: helvetica;
+	font-size:20px;
+	color:#000066;
+}
+h3{
+	text-align:left;
+	font-family: helvetica;
+	font-size:30px;
+	color:#33CCCC;
+}
+hr{
+	border-color:#33CCCC;
+	border-width:3px;
+}
+.logo{
+	border-radius: 25px;
+	max-height:100px;
+	margin-bottom:0px;
+}
+.banner{
+	border-radius: 25px;
+}
+.margin-top{
+	margin-top:10px;
+}
+.project{
+	border-radius: 25px;
+}
+.caption{
+	margin-top:5px;
+	margin-bottom:0px;
+	text-align:center;
+	font-family:helvetica;
+	font-style:italic;
+	font-weight:bold;
+	color:#000066;
+}
+.link{
+	margin-top:0px;
+	text-align:center;
+	font-family:helvetica;
+	font-style:italic;
+	color:#000066;
+}
+.link a{
+	text-decoration: none;
+	color:#33CCCC;
+}
+.footer{
+	text-align:center;
+	font-size:10px;
+}
+.hrfoot{
+	border-color:#33CCCC;
+	border-width:1px;
+}
