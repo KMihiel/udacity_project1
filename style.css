@@ -4,8 +4,7 @@ body {
 
 .container {
 	background-color: white;
-	margin-top: 10px;
-	padding-top: 10px;
+	padding: 10px;
 	border-radius: 15px;
 }
 
@@ -14,13 +13,11 @@ h1 {
 	font-family: Helvetica;
 	font-weight: bold;
 	font-size: 50px;
-	margin-bottom: 0px;
 	color: #000066;
 }
 
 h2 {
-	margin-top: 0px;
-	margin-bottom: 0px;
+	margin: 0px;
 	text-align: right;
 	font-family: helvetica;
 	font-size: 20px;
@@ -42,7 +39,6 @@ hr {
 .logo {
 	border-radius: 25px;
 	max-height: 100px;
-	margin-bottom: 0px;
 }
 
 .banner {
@@ -58,8 +54,7 @@ hr {
 }
 
 .caption {
-	margin-top: 5px;
-	margin-bottom: 0px;
+	margin: 5px 0px 0px 0px;
 	text-align: center;
 	font-family: helvetica;
 	font-style: italic;
@@ -68,7 +63,7 @@ hr {
 }
 
 .link {
-	margin-top: 0px;
+	margin: 0px;
 	text-align: center;
 	font-family: helvetica;
 	font-style: italic;
