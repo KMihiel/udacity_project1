@@ -1,77 +1,86 @@
-body{
-	background-color:#33CCCC;
+body {
+	background-color:#33cccc;
 }
-.container{
+
+.container {
 	background-color: white;
-	margin-top:10px;
-	padding-top:10px;
-	border-radius:15px;
+	margin-top: 10px;
+	padding-top: 10px;
+	border-radius: 15px;
 }
-h1{
-	text-align:right;
-	font-family:Helvetica;
-	font-weight:bold;
-	font-size:50px;
-	margin-bottom:0px;
-	color:#000066;
+
+h1 {
+	text-align: right;
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 50px;
+	margin-bottom: 0px;
+	color: #000066;
 }
-h2{
-	margin-top:0px;
-	margin-bottom:0px;
-	text-align:right;
+
+h2 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: right;
 	font-family: helvetica;
-	font-size:20px;
-	color:#000066;
+	font-size: 20px;
+	color: #000066;
 }
-h3{
-	text-align:left;
+
+h3 {
+	text-align: left;
 	font-family: helvetica;
-	font-size:30px;
-	color:#33CCCC;
+	font-size: 30px;
+	color: #33cccc;
 }
-hr{
-	border-color:#33CCCC;
-	border-width:3px;
+
+hr {
+	border-color: #33cccc;
+	border-width: 3px;
 }
-.logo{
+
+.logo {
 	border-radius: 25px;
-	max-height:100px;
-	margin-bottom:0px;
+	max-height: 100px;
+	margin-bottom: 0px;
 }
-.banner{
-	border-radius: 25px;
-}
-.margin-top{
-	margin-top:10px;
-}
-.project{
+
+.banner {
 	border-radius: 25px;
 }
-.caption{
-	margin-top:5px;
-	margin-bottom:0px;
-	text-align:center;
-	font-family:helvetica;
-	font-style:italic;
-	font-weight:bold;
-	color:#000066;
+
+.margin-top {
+	margin-top: 10px;
 }
-.link{
-	margin-top:0px;
-	text-align:center;
-	font-family:helvetica;
-	font-style:italic;
-	color:#000066;
+
+.project {
+	border-radius: 25px;
 }
-.link a{
-	text-decoration: none;
-	color:#33CCCC;
+
+.caption {
+	margin-top: 5px;
+	margin-bottom: 0px;
+	text-align: center;
+	font-family: helvetica;
+	font-style: italic;
+	font-weight: bold;
+	color: #000066;
 }
-.footer{
-	text-align:center;
-	font-size:10px;
+
+.link {
+	margin-top: 0px;
+	text-align: center;
+	font-family: helvetica;
+	font-style: italic;
+	color: #000066;
 }
-.hrfoot{
-	border-color:#33CCCC;
-	border-width:1px;
+
+.footer {
+	text-align: center;
+	font-size: 10px;
+}
+
+.hrfoot {
+	border-color: #33cccc;
+	border-width: 1px;
 }
